@@ -1,0 +1,36 @@
+ 
+ <!-- Shopping CategoryList   -->
+ 
+ <string-array name="category_spinner_array">
+        
+	<item>alcohol & cigarettes</item>
+    <item>baby products</item>
+    <item>bakery</item>
+	<item>beverages</item>
+	<item>car care products</item>
+	<item>clothes</item>
+	<item>coffee,tea,hot chocolate</item>
+	<item>cosmetics</item>
+	<item>dairy products</item>
+	<item>diet foods</item>
+	<item>electrical products</item>
+	<item>fish & seafoods</item>
+	<item>food cupboard</item>
+	<item>frozen</item>
+	<item>grains & pasta</item>
+	<item>home & kitchen</item>
+	<item>house-cleaning products</item>
+	<item>meat</item>
+	<item>newspapers</item>
+	<item>office supplies</item>
+	<item>oils</item>
+	<item>other</item>
+	<item>personal hygiene</item>
+	<item>pet supplies</item>
+	<item>pharmacy</item>
+	<item>produce</item>
+	<item>snacks</item>
+	<item>spices</item>
+	
+</string-array>
+	
